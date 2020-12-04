@@ -17,6 +17,6 @@
     "noEmit": true,
     "jsx": "react"
   },
-  "include": ["packages", "src", "utils/scss.d.ts"],
+  "include": ["packages", "src", "shared/typings/scss.d.ts"],
   "exclude": ["node_modules"]
 }
