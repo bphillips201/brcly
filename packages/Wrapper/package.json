@@ -1,0 +1,23 @@
+{
+  "name": "@brcly/wrapper",
+  "version": "1.0.0",
+  "description": "Embrace your UI in a snuggly, configurable wrapper",
+  "main": "src/index.tsx",
+  "repository": "https://github.com/bphillips201/brcly",
+  "author": "@philianor",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.0",
+    "classnames": "^2.2.6",
+    "react": "^17.0.1"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/classnames": "^2.2.11"
+  }
+}
